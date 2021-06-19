@@ -1,0 +1,1 @@
+Go Tool to send whatsapp message to multiple contacts.
